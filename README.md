@@ -18,9 +18,9 @@
 
 ## Getting Started
 
+- `npm install -g generator-express-flux` to install.
 - `yo express-flux` to run the yeoman generator.
-- `npm install -g generator-express-server` to install.
-- `node server.js` to run the site 
+- `node server.js` to run your site 
 - `gulp` to rebuild client side components with browserify.
 
 
