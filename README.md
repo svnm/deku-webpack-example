@@ -1,8 +1,12 @@
 ## Express Flux Generator
 
-> [Yeoman](http://yeoman.io) generator that scaffolds out a front-end web app using [gulp](http://gulpjs.com/) for the build process
+![](screenshots/fluxxor.png)
 
-![](screenshots/screenshot.png)
+![](screenshots/react.png)
+![](screenshots/gulp.png)
+![](screenshots/browserify.png)
+
+> [Yeoman](http://yeoman.io) generator that scaffolds out a front-end web app using [gulp](http://gulpjs.com/) for the build process
 
 ## Features
 
@@ -14,18 +18,13 @@
 
 ## Getting Started
 
-- Install: `npm install -g generator-react-server`
-- Run `gulp` to build the client side components with browserify.
-- To run the site run node server.js
+- `yo express-flux` to run the yeoman generator.
+- `npm install -g generator-express-server` to install.
+- `node server.js` to run the site 
+- `gulp` to rebuild client side components with browserify.
 
 
 ## License
 
 [MIT license](http://opensource.org/licenses/MIT)
-
-![](screenshots/fluxxor.png)
-
-![](screenshots/react.png)
-![](screenshots/gulp.png)
-![](screenshots/browserify.png)
 
