@@ -23,7 +23,9 @@
 
 [MIT license](http://opensource.org/licenses/MIT)
 
+![](screenshots/fluxxor.png)
+
 ![](screenshots/react.png)
 ![](screenshots/gulp.png)
 ![](screenshots/browserify.png)
-![](screenshots/fluxxor.png)
+
