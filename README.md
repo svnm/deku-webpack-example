@@ -26,5 +26,4 @@
 
 ## License
 
-[MIT license](http://opensource.org/licenses/MIT)
-
+[MIT](http://isekivacenz.mit-license.org/)
