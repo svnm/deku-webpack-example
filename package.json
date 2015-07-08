@@ -1,7 +1,7 @@
 {
   "name": "generator-express-flux",
   "version": "0.0.6",
-  "description": "Yeoman generator for server side react.js rendering with Express, Browserify and Fluxxor",
+  "description": "Scaffold out an isomorphic flux app with Express, Browserify and Fluxxor",
   "license": "MIT",
   "repository": "StevenIseki/generator-express-flux",
   "author": "Steven Iseki",
@@ -23,6 +23,9 @@
     "React",
     "Fluxxor",
     "Flux",
+    "flux",
+    "react flux",
+    "react fluxxor",
     "React Server",
     "react-server",
     "isomorphic",

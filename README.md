@@ -1,6 +1,6 @@
 ## Express Flux Generator
 
-> [Yeoman](http://yeoman.io) generator that scaffolds out a front-end web app using [gulp](http://gulpjs.com/) for the build process
+> [Yeoman](http://yeoman.io) generator that scaffolds out an isomorphic web app with Express, Browserify and Fluxxor
 
 ![](screenshots/fluxxor.png)
 
