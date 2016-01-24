@@ -20,11 +20,10 @@ npm start
 open http://127.0.0.1:3000
 ```
 
-![](images/react.png)
+![](images/deku.png)
 ![](images/cssmodules.png)
 ![](images/skeleton.png)
 ![](images/webpack.png)
-![](images/deku.png)
 
 ## License
 
